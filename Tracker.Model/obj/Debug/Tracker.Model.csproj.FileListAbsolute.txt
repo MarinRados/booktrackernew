@@ -1,0 +1,7 @@
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\Tracker.Model.dll
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\Tracker.Model.pdb
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\Tracker.Model.Common.dll
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\Tracker.Model.Common.pdb
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\obj\Debug\Tracker.Model.csprojResolveAssemblyReference.cache
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\obj\Debug\Tracker.Model.dll
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\obj\Debug\Tracker.Model.pdb

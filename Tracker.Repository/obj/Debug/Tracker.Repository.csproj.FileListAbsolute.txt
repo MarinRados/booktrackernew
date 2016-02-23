@@ -1,0 +1,16 @@
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Repository.dll
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Repository.pdb
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Repository\obj\Debug\Tracker.Repository.dll
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Repository\obj\Debug\Tracker.Repository.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\obj\Debug\Tracker.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Repository.dll.config
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.DAL.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Model.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Model.Common.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.DAL.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Model.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Model.Common.pdb

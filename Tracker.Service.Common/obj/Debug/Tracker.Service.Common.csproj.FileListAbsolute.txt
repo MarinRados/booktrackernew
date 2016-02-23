@@ -1,0 +1,4 @@
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.Service.Common.dll
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.Service.Common.pdb
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Service.Common\obj\Debug\Tracker.Service.Common.dll
+c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Service.Common\obj\Debug\Tracker.Service.Common.pdb
