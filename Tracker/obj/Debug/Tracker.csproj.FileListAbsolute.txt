@@ -36,3 +36,5 @@ c:\users\marin\documents\visual studio 2013\Projects\Tracker\Tracker\bin\Tracker
 c:\users\marin\documents\visual studio 2013\Projects\Tracker\Tracker\bin\Tracker.Model.pdb
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Repository.dll
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Repository.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Repository.Common.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Repository.Common.pdb
