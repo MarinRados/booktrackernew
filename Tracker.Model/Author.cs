@@ -9,17 +9,17 @@ namespace Tracker.Model
 {
     public class Author : IAuthor
     {
-        public int Id { get; set; }
+        public Guid AuthorId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string FullName
         {
             get
             {
-                return LastName + ", " + FirstName;
+                return LastName + " " + FirstName;
             }
         }
 
-        public ICollection<IBook> Books { get; set; }
+        public virtual ICollection<IBook> Books { get; set; }
     }
 }

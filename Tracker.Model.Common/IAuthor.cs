@@ -8,7 +8,7 @@ namespace Tracker.Model.Common
 {
     public interface IAuthor
     {
-        int Id { get; set; }
+        Guid AuthorId { get; set; }
         string FirstName { get; set; }
         string LastName { get; set; }
         string FullName { get; }

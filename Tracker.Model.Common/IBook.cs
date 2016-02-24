@@ -8,12 +8,12 @@ namespace Tracker.Model.Common
 {
     public interface IBook
     {
-        int Id { get; set; }
-        int AuthorId { get; set; }
+        Guid Id { get; set; }
         string Name { get; set; }
         DateTime? DateRead { get; set; }
         int? Rating { get; set; }
 
+        Guid AuthorId { get; set; }
         IAuthor Author { get; set; }
     }
 }

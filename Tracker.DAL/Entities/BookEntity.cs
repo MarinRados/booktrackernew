@@ -1,16 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Tracker.DAL.Entities
 {
     public class BookEntity
     {
-        public int Id { get; set; }
-        public int AuthorId { get; set; }
+        public Guid Id { get; set; }
         public string Name { get; set; }
+        [DataType(DataType.DateTime)]
+        [DisplayFormat(DataFormatString = "{0:dd.MM.yyyy.}", ApplyFormatInEditMode = true)]
         public DateTime? DateRead { get; set; }
         public int? Rating { get; set; }
 
-        public AuthorEntity Author { get; set; }
+        public Guid AuthorId { get; set; }
+        public virtual AuthorEntity Author { get; set; }
     }
 }

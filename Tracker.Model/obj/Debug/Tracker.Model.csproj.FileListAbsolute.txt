@@ -5,3 +5,8 @@ c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\bin\D
 c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\obj\Debug\Tracker.Model.csprojResolveAssemblyReference.cache
 c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\obj\Debug\Tracker.Model.dll
 c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Model\obj\Debug\Tracker.Model.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\Tracker.Model.dll.config
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\EntityFramework.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\EntityFramework.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Model\bin\Debug\EntityFramework.SqlServer.xml
