@@ -39,7 +39,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IAuthorService.cs" />
+    <Compile Include="IBookService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tracker.Common\Tracker.Common.csproj">
+      <Project>{8e45e273-fa18-4146-a39c-fb7ab90c51e0}</Project>
+      <Name>Tracker.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tracker.DAL\Tracker.DAL.csproj">
+      <Project>{3c058db1-742b-46f5-bcf5-fec3a43a962f}</Project>
+      <Name>Tracker.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tracker.Model.Common\Tracker.Model.Common.csproj">
+      <Project>{da58c287-c202-4118-9f7a-24e143edf759}</Project>
+      <Name>Tracker.Model.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

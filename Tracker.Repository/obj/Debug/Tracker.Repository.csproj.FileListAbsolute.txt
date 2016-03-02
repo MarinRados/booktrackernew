@@ -12,3 +12,15 @@ C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Repository.Common.dll
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Repository.Common.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Model.Common.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Common.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Model.Common.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Common.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\PagedList.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\PagedList.Mvc.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Model.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\Tracker.Model.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\PagedList.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Repository\bin\Debug\PagedList.Mvc.xml

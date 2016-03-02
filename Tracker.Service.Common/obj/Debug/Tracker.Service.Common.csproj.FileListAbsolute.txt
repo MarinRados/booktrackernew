@@ -2,3 +2,12 @@ c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Service.Com
 c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.Service.Common.pdb
 c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Service.Common\obj\Debug\Tracker.Service.Common.dll
 c:\Users\Marin\documents\visual studio 2013\Projects\Tracker\Tracker.Service.Common\obj\Debug\Tracker.Service.Common.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.Common.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.DAL.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.Model.Common.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\EntityFramework.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.Common.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.DAL.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\Tracker.Model.Common.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\bin\Debug\EntityFramework.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker.Service.Common\obj\Debug\Tracker.Service.Common.csprojResolveAssemblyReference.cache

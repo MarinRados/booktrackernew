@@ -38,3 +38,11 @@ C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Repository.pdb
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Repository.Common.dll
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Repository.Common.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Common.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Common.pdb
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\AutoMapper.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\PagedList.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\PagedList.Mvc.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\AutoMapper.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\PagedList.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\PagedList.Mvc.xml
