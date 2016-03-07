@@ -1,0 +1,54 @@
+﻿@*@model IEnumerable<Tracker.Model.Common.IAuthor>*@
+@model PagedList.IPagedList<Tracker.Model.Common.IAuthor>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create new Author", "Create", "Author")
+</p>
+@using (Html.BeginForm("Index", "Author", FormMethod.Get))
+{
+    <p>
+        Search:
+        @Html.TextBox("searchString", null, new { @class = "form-control", placeholder = "Search" })
+        <input type="submit" value="Search" class="btn btn-default" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            First name
+        </th>
+        <th>
+            Last name
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.AuthorId })
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+@Html.PagedListPager(Model, pageNumber => Url.Action("Index", new { pageNumber }));
+

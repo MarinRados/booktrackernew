@@ -46,3 +46,5 @@ C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\PagedLi
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\AutoMapper.xml
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\PagedList.xml
 C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\PagedList.Mvc.xml
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Service.Common.dll
+C:\Users\Marin\Documents\Visual Studio 2013\Projects\Tracker\Tracker\bin\Tracker.Service.Common.pdb

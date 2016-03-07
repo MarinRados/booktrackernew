@@ -131,10 +131,14 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AuthorController.cs" />
+    <Compile Include="Controllers\BookController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\AuthorModel.cs" />
+    <Compile Include="Models\BookModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -174,10 +178,11 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Author\Index.cshtml" />
+    <Content Include="Views\Book\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -187,6 +192,10 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Tracker.Common\Tracker.Common.csproj">
+      <Project>{8e45e273-fa18-4146-a39c-fb7ab90c51e0}</Project>
+      <Name>Tracker.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Tracker.DAL\Tracker.DAL.csproj">
       <Project>{3c058db1-742b-46f5-bcf5-fec3a43a962f}</Project>
       <Name>Tracker.DAL</Name>
@@ -203,6 +212,13 @@
       <Project>{d3633003-30ab-4c53-bca8-433700f9b9d2}</Project>
       <Name>Tracker.Repository</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Tracker.Service.Common\Tracker.Service.Common.csproj">
+      <Project>{154f750c-50ce-4ed0-9da6-83d25ce58113}</Project>
+      <Name>Tracker.Service.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

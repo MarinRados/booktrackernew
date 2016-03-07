@@ -11,9 +11,10 @@ namespace Tracker.DAL.Entities
         [DataType(DataType.DateTime)]
         [DisplayFormat(DataFormatString = "{0:dd.MM.yyyy.}", ApplyFormatInEditMode = true)]
         public DateTime? DateRead { get; set; }
+        [Range (1,10)]
         public int? Rating { get; set; }
 
         public Guid AuthorId { get; set; }
-        public virtual AuthorEntity Author { get; set; }
+        public virtual AuthorEntity AuthorEntity { get; set; }
     }
 }
