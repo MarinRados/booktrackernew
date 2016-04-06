@@ -32,7 +32,7 @@ namespace Tracker.Controllers
         {
         }
 
-        public async Task<ActionResult> Index(string searchString, string currentFilter, int pageNumber = 0, int pageSize = 0)
+        public async Task<ActionResult> Index(string searchString, string currentFilter, int pageNumber = 1, int pageSize = 10)
         {
             var bk = await BookService.GetAllBooks(new Common.Filters.GenericFilter(searchString, pageNumber, pageSize));
             return View(bk);

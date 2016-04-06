@@ -28,7 +28,7 @@ namespace Tracker.Controllers
         {
         }
 
-        public async Task<ActionResult> Index(string searchString, string currentFilter, int pageNumber = 0, int pageSize = 0)
+        public async Task<ActionResult> Index(string searchString, string currentFilter, int pageNumber = 1, int pageSize = 10)
         {
             var at = await Service.GetAllAsync(new Common.Filters.GenericFilter(searchString, pageNumber, pageSize));
             return View(at);

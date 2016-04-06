@@ -16,7 +16,7 @@ namespace Tracker.Repository
     {
         protected ITrackerContext Context { get; private set; }
 
-        public UnitOfWork(ITrackerContext context, IUnitOfWork uow)
+        public UnitOfWork(ITrackerContext context)
         {
             if(context == null)
             {
