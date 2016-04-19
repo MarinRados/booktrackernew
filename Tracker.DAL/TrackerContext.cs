@@ -10,7 +10,8 @@ namespace Tracker.DAL
 {
     public class TrackerContext : DbContext, ITrackerContext
     {
-        public TrackerContext() : base("TrackerContext")
+        public TrackerContext()
+            : base("TrackerContext")
         {
         }
 

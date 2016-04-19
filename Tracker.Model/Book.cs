@@ -17,7 +17,10 @@ namespace Tracker.Model
         public DateTime? DateRead { get; set; }
         public int? Rating { get; set; }
 
+        //Foreign key
         public Guid AuthorId { get; set; }
+
+        //One to one
         public virtual IAuthor Author { get; set; }
     }
 }

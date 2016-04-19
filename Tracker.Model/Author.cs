@@ -20,6 +20,7 @@ namespace Tracker.Model
             }
         }
 
+        //One to many
         public virtual ICollection<IBook> Books { get; set; }
     }
 }

@@ -28,7 +28,7 @@ namespace Tracker.Controllers
         {
         }
 
-        public async Task<ActionResult> Index(string searchString, string currentFilter, int pageNumber = 1, int pageSize = 10)
+        public async Task<ActionResult> Index(string searchString, int pageNumber = 1, int pageSize = 10)
         {
             var at = await Service.GetAllAsync(new Common.Filters.GenericFilter(searchString, pageNumber, pageSize));
             return View(at);
@@ -43,7 +43,7 @@ namespace Tracker.Controllers
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Create(AuthorModel atm)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 await Service.AddAsync(AutoMapper.Mapper.Map<Author>(atm));
                 return RedirectToAction("Index");
@@ -51,10 +51,10 @@ namespace Tracker.Controllers
             return View(atm);
         }
 
-        public async Task<ActionResult> Delete (Guid id)
+        public async Task<ActionResult> Delete(Guid id)
         {
             var atToDelete = await Service.GetByIdAsync(id);
-            if(atToDelete == null)
+            if (atToDelete == null)
             {
                 return HttpNotFound();
             }
